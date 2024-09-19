@@ -1,0 +1,11 @@
+build:
+  version: "2.O"
+
+account:
+  message: "Welcome to EazyBank account related QA APIs"
+  contactDetails:
+    mane: "Smitha Ray  Lead QA"
+    email: "smitha@yeazybank.com"
+  onCallSupport:
+    -(666) 256-3765
+    -(666) 734-8371
