@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 account:
-  message: "Welcome to EazyBank account related docker APIs"
+  message: "Welcome to EazyBank account related local APIs"
   contactDetails:
     mane: "Reine Aishwarya -Product owner"
     email: "{cipher}6f269e07eecd89f90ada133c2fc3a8f27b4251cdf6fa5fbc8fbf1a05f524291be052bc726243fe298dd98d53230f761b"
